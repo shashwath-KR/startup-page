@@ -1,0 +1,37 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	background-image: url(https://www.bing.com/images/blob?bcid=S-IAsfiAv7EBzqY4iNVOXHr4I566.....3c);
+	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn-secondary:hover {
+	background-color:green ;
+	border-color:green  ;
+	border-width: 3px; 
+	color: blue; 
+}
+
+.btn-secondary {border-color: #0c7338 ;
+background-color: #0c7338 ;  }
+
+.btn-xl { padding: 1rem 2rem 1rem 2rem; }
+.btn {
+	border-radius: 300px;
+	text-transform: uppercase;
+color: blue;}
+hr { border-color: red;
+border-width: 3px;
+max-width: 65px; }
+
+h1 {color:#dc3545; }
+
+
+.buffer { height: 50px; }
+
+
+
